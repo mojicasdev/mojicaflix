@@ -1,0 +1,91 @@
+{
+  "categorias": [
+    {
+      "titulo": "Fase de Grupos",
+      "link": "https://youtu.be/LhyOlpEGLLo",
+      "cor": "Maroon",
+      "videos": [
+        {
+          "titulo": "Batalha épica em Lima 2019!",
+          "url": "https://youtu.be/LhyOlpEGLLo"
+        },
+        {
+          "titulo": "Partida 01 rumo ao título",
+          "url": "https://youtu.be/OH7GW_3k3yo"
+        },
+        {
+          "titulo": "Partida 02 rumo ao título",
+          "url": "https://youtu.be/Ilc43fxqeyM"
+        },
+        {
+          "titulo": "Partida 03 rumo ao título",
+          "url": "https://youtu.be/LQYjkOSElNU"
+        },
+        {
+          "titulo": "Partida 04 rumo ao título",
+          "url": "https://youtu.be/jYGrvtB4NbY"
+        },
+        {
+          "titulo": "Partida 05 rumo ao título",
+          "url": "https://youtu.be/LopayMj5RpU"
+        },
+        {
+          "titulo": "Partida 06 rumo ao título",
+          "url": "https://youtu.be/LTz8Nn3yEk4"
+        }      
+      ]
+    },
+    {
+      "titulo": "Oitavas de Finais",
+      "cor": "Brown",
+      "videos": [
+        {
+          "titulo": "Jogo de ida!",
+          "url": "https://youtu.be/wNA_myxEWng"
+        },
+        {
+          "titulo": "Jogo de Volta!",
+          "url": "https://youtu.be/Bx_NUaKNnhg"
+        }
+      ]
+    },
+    {
+      "titulo": "Quartas de Finais",
+      "cor": "FireBrick",
+      "videos": [
+        {
+          "titulo": "Jogo no Maraca",
+          "url": "https://youtu.be/06FyB3cJADo"
+        },
+        {
+          "titulo": "Jogo no Beira Rio",
+          "url": "https://youtu.be/tjL4niCE4Yo"
+        }
+      ]
+    },
+    {
+      "titulo": "Semi Finais",
+      "cor": "DarkRed",
+      "videos": [
+        {
+          "titulo": "Jogo na Arena Grêmio",
+          "url": "https://youtu.be/PcLsiTZ85F0"
+        },
+        {
+          "titulo": "Jogo no Maraca",
+          "url": "https://youtu.be/CDR7kPwPYT8"
+        }
+      ]
+    },
+    {
+      "titulo": "O grande Duelo!",
+      "cor": "Maroon",
+      "videos": [
+        {
+          "titulo": "Final em Lima no Peru!",
+          "url": "https://youtu.be/LhyOlpEGLLo"
+        }  
+      ]
+    }
+  ]
+}
