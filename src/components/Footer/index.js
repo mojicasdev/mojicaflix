@@ -8,6 +8,7 @@ function Footer() {
       <a href="https://www.flamengo.com.br/">
         <img src={flamengo} alt="Logo Alura" />
       </a>
+      
       <p>
         Orgulhosamente criado durante a
         {' '}
